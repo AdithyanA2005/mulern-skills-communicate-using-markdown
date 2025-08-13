@@ -9,3 +9,9 @@ for (let i = 1; i <= 10; i++) {
   console.log(i);
 }
 ``` 
+
+### My todo list
+- [x] Do something1
+- [ ] Do something2
+- [ ] Do something3
+- [ ] Do something4
